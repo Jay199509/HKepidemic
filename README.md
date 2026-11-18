@@ -30,7 +30,7 @@
 ├── templates
 │   └── dashboard.html          	# 主页面模板
 ├── 香港各区疫情数据_20250322.xlsx     # 疫情数据文件
-├── SPEC.md     					# Spece文档
+├── SPEC.md     					        # Spec文档
 └── requirements.txt            	# 依赖项列表
 ```
 
